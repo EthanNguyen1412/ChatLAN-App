@@ -19,6 +19,7 @@ To run this project, you need to have Java Development Kit (JDK) 8 or higher ins
 
 Step 1: Clone the Repository
 git clone [https://github.com/EthanNguyen1412/ChatLAN-App]
+cd [ChatLAN.zip]
 
 Step 2: Run the Server
 The server must be started first to listen for client connections.
